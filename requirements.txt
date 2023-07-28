@@ -37,3 +37,4 @@ python-dotenv
 Pillow
 speedtest-cli
 psutil==5.9.4
+dnspython==2.3.0
